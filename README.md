@@ -6,3 +6,7 @@
 
 1.2.3 Demo for metrics
 [Colab](https://colab.research.google.com/drive/1QRYUM4AU6fg6T0L3fshiA-JWC_no0bA4?usp=sharing)
+
+
+Demo for qutip-qip
+[Colab](https://colab.research.google.com/github/zlianghahaha/QCE2023-TuT18/blob/main/qutip_qip_transmon_tutorial.ipynb)
